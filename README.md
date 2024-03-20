@@ -29,7 +29,7 @@ GitHub Analytics ⚙️
 <div align="center">
   <a href="https://github.com/DreamToTheFuture">
     <p align="center">
-
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DreamToTheFuture&show_icons=true&theme=react&hide_border=true" />
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DreamToTheFuture&theme=react&hide_border=true" />
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DreamToTheFuture&theme=react&hide_border=true"/>
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DreamToTheFuture&theme=react&hide_border=true"/>
